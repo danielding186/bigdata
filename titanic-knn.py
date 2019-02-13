@@ -1,4 +1,4 @@
-# An exmaple from big-data-class using kNN and the accurary is 0.565
+# An example from big-data-class using kNN and the accurary is 0.565
 # Data from https://www.kaggle.com/c/titanic
 # coding: utf-8
 
